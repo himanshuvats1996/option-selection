@@ -1,0 +1,11 @@
+{
+  "name": "react-native-option-selection",
+  "version": "2.0.1",
+  "description": "This Picker modal renders you data list or array in to the selectable list view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
